@@ -1,0 +1,40 @@
+body{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav20{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+nav >ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.span20{
+    color:orangered;
+}
+.but20{
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
